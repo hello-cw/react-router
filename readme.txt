@@ -1,0 +1,2 @@
+git is a very nice word!
+git is a god!
