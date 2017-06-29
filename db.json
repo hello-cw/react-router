@@ -1,0 +1,336 @@
+{
+  "user": [
+    {
+      "age": 32,
+      "name": "12",
+      "voucher": "321314",
+      "explain": "",
+      "address": "北京 西城区",
+      "date": "2017-4-28-14",
+      "id": 1
+    },
+    {
+      "age": 23,
+      "name": "312",
+      "voucher": "435",
+      "explain": "",
+      "address": "四川 遂宁 蓬溪县",
+      "date": "2017-6-28-18",
+      "id": 2
+    }
+  ],
+  "book": [
+    {
+      "id": 10000,
+      "name": "JavaScript从入门到精通",
+      "price": 9990,
+      "owner_id": 10000
+    },
+    {
+      "id": 10001,
+      "name": "Java从入门到放弃",
+      "price": 1990,
+      "owner_id": 10001
+    }
+  ],
+  "indexList": {
+    "lunbo": [
+      {
+        "id": 1,
+        "item": "http://www.sina.com",
+        "src": "./src/image/react1.jpg"
+      },
+      {
+        "id": 2,
+        "item": "http://www.qq.com",
+        "src": "./src/image/user_center_bg.png"
+      },
+      {
+        "id": 3,
+        "item": "http://www.sina.com",
+        "src": "./src/image/react22.jpg"
+      },
+      {
+        "id": 4,
+        "item": "http://www.sina.com",
+        "src": "./src/image/react23.jpg"
+      }
+    ],
+    "list": [
+      {
+        "id": 1,
+        "src": "./src/image/react6.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 2,
+        "src": "./src/image/react2.jpg",
+        "title": "朝花暮日，风景依旧，春去秋来，物是人非，似水流年，浮生若梦",
+        "price": "￥998"
+      },
+      {
+        "id": 3,
+        "src": "./src/image/react3.jpg",
+        "title": "苍茫大地一剑尽挽破，何处繁华笙歌落",
+        "price": "￥998"
+      },
+      {
+        "id": 4,
+        "src": "./src/image/react4.jpg",
+        "title": "江南风骨，天水成碧，天教心愿与身违。",
+        "price": "￥998"
+      },
+      {
+        "id": 5,
+        "src": "./src/image/react5.jpg",
+        "title": "总在不经意的年生。回首彼岸。纵然发现光景绵长",
+        "price": "￥998"
+      }
+    ]
+  },
+  "login": [],
+  "nav": {
+    "look": [
+      {
+        "id": 1,
+        "src": "./src/image/react7.jpg",
+        "title": "红尘初妆，山河无疆。最初的面庞，碾碎梦魇无常，命格无双。",
+        "price": "￥998"
+      },
+      {
+        "id": 2,
+        "src": "./src/image/react8.jpg",
+        "title": "山河拱手，为君一笑。",
+        "price": "￥998"
+      },
+      {
+        "id": 3,
+        "src": "./src/image/react9.jpg",
+        "title": "总在不经意的年生。回首彼岸。纵然发现光景绵长。",
+        "price": "￥998"
+      },
+      {
+        "id": 4,
+        "src": "./src/image/react10.jpg",
+        "title": "念往昔，繁华竞逐",
+        "price": "￥998"
+      },
+      {
+        "id": 5,
+        "src": "./src/image/react11.jpg",
+        "title": "既不回头，何必不忘。既然无缘，何须誓言。",
+        "price": "￥998"
+      }
+    ],
+    "hot": [
+      {
+        "id": 1,
+        "src": "./src/image/react12.jpg",
+        "title": "忘不掉的是回忆，继续的是生活，错过的，就当是路过",
+        "price": "￥998"
+      },
+      {
+        "id": 2,
+        "src": "./src/image/react13.jpg",
+        "title": "凋谢是真实的，盛开只是一种过去",
+        "price": "￥998"
+      },
+      {
+        "id": 3,
+        "src": "./src/image/react14.jpg",
+        "title": "人天自两空，何相忘，何笑何惊人",
+        "price": "￥998"
+      },
+      {
+        "id": 4,
+        "src": "./src/image/react15.jpg",
+        "title": "你要记得，那年那月，垂柳紫陌洛城东",
+        "price": "￥998"
+      }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "src": "./src/image/react16.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 2,
+        "src": "./src/image/react17.jpg",
+        "title": "朝花暮日，风景依旧，春去秋来，物是人非，似水流年，浮生若梦",
+        "price": "￥998"
+      },
+      {
+        "id": 3,
+        "src": "./src/image/react18.jpg",
+        "title": "苍茫大地一剑尽挽破，何处繁华笙歌落",
+        "price": "￥998"
+      },
+      {
+        "id": 4,
+        "src": "./src/image/react19.jpg",
+        "title": "江南风骨，天水成碧，天教心愿与身违。",
+        "price": "￥998"
+      },
+      {
+        "id": 5,
+        "src": "./src/image/react20.jpg",
+        "title": "总在不经意的年生。回首彼岸。纵然发现光景绵长",
+        "price": "￥998"
+      }
+    ]
+  },
+  "type": {
+    "cooky": [
+      {
+        "id": 1,
+        "src": "./src/image/react6.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 2,
+        "src": "./src/image/react3.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 3,
+        "src": "./src/image/react16.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 4,
+        "src": "./src/image/react24.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 5,
+        "src": "./src/image/react23.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      }
+    ],
+    "teacake": [
+      {
+        "id": 1,
+        "src": "./src/image/react1.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 2,
+        "src": "./src/image/react5.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 3,
+        "src": "./src/image/react12.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 4,
+        "src": "./src/image/react20.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 5,
+        "src": "./src/image/react22.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      }
+    ],
+    "cake": [
+      {
+        "id": 1,
+        "src": "./src/image/react3.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 2,
+        "src": "./src/image/react8.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 3,
+        "src": "./src/image/react10.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 4,
+        "src": "./src/image/react18.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 5,
+        "src": "./src/image/react21.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      }
+    ],
+    "bread": [
+      {
+        "id": 1,
+        "src": "./src/image/react4.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 2,
+        "src": "./src/image/react6.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 3,
+        "src": "./src/image/react9.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 4,
+        "src": "./src/image/react13.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      },
+      {
+        "id": 5,
+        "src": "./src/image/react17.jpg",
+        "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+        "price": "￥998"
+      }
+    ]
+  },
+  "shopCar": [
+    {
+      "id": 2,
+      "src": "./src/image/react17.jpg",
+      "title": "朝花暮日，风景依旧，春去秋来，物是人非，似水流年，浮生若梦",
+      "price": "108"
+    },
+    {
+      "src": "./src/image/react6.jpg",
+      "title": "用心聆听，深深呼吸，烟花雨，梨花月，寄一缕风的香魂，远离喧嚣",
+      "price": "998",
+      "id": 3
+    }
+  ],
+  "imgUpload": [],
+  "test": {
+    "num": 9
+  },
+  "word": {
+    "text": "这只是一个测试"
+  }
+}

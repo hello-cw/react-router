@@ -1,0 +1,38 @@
+.ScrollContainer{
+    margin-top:50px;
+}
+#PullDown {
+    margin:0px;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    background-color: white;
+    line-height: 40px;
+}
+
+#PullUp {
+    margin:0px;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    background-color: white;
+    line-height: 40px;
+}
+
+#ListOutsite {
+    position:relative;
+}
+
+#ListInside {
+    list-style: none;
+    margin:0;
+    padding:0;
+    min-height: 110%;
+}
+
+
+.div1{
+    background-color:red;
+}

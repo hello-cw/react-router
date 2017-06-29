@@ -1,0 +1,201 @@
+body{
+	background:#f1f1f1;
+}
+.shop{
+	.shop_content{
+		width:100%;
+		overflow:hidden;
+		ul{
+			width:100%;
+			height:50px;
+			display:flex;
+			float:left;
+			background:#fff;
+			border-bottom:1px solid #eee;
+			position:relative;
+			z-index:99;
+			
+			li{
+				flex:1;
+				text-align: center;
+				height:50px;
+				line-height:50px;
+				font-size: 14px;
+				color:#000;
+				box-sizing: border-box;
+			}
+
+		}
+	}
+}
+.list_wrap{
+	width:100%;
+	height:250px;
+	overflow:hidden;
+	background:#fff;
+	.list_img{
+		width:100%;
+		height:200px;
+	}
+	p{
+		width:100%;
+		line-height:50px;
+		color:#666;
+		font-size:16px;
+	}
+}
+.buy{
+	width:98%;
+	overflow:hidden;
+	padding-left:2%;
+	margin-top:15px;
+	background:#fff;
+	.the_title{
+		height:30px;
+		width:100%;
+		font-size:18px;
+		color:#000;
+		line-height:30px;
+	}
+	.order_detail{
+		width:100%;
+		height:60px;
+		border-top:1px solid #ddd;
+		div{
+			float:left;
+		}
+		.order_top{
+			width:60%;
+			height:100%;
+			p{
+				width:100%;
+				height:30px;
+				overflow:hidden;
+				text-overflow:ellipsis;
+				white-space: nowrap;
+				line-height:30px;
+			}
+			.order_buy_title{
+				font-size:14px;
+				color:#333;
+			}
+			.order_buy_time{
+				font-size:14px;
+				color:#666;
+			}
+		}
+		.order_center{
+			width:20%;
+			text-align:center;
+			height:60px;
+			line-height:60px;
+			color:red;
+			font-size:20px;
+		}
+		.order_right{
+			width:20%;
+			height:60px;
+			input{
+				width:90%;
+				height:40px;
+				margin-top:10px;
+				background:#ff9600;
+				font-size:14px;
+				color:#fff;
+				text-align: center;
+				border:none;
+				border-radius:5px;
+				outline:none;
+			}
+		}
+	}
+}
+.detail_wrap_bottom{
+	width:100%;
+	margin-top:15px;
+	background:#fff;
+	overflow:hidden;
+	.detail_ul{
+		width:75%;
+		margin:0 auto;
+		height:50px;
+		display:flex;
+		li{
+			flex:1;
+			text-align:center;
+			line-height:50px;
+			height:50px;
+			font-size:16px;
+			color:#000;
+		}
+	}
+	.detail_content{
+		width:100%;
+		overflow:hidden;
+		border-top:2px solid #ddd;
+	}
+}
+.list_footer{
+	width:100%;
+	height:60px;
+	display: flex;
+	position:fixed;
+	left:0;
+	bottom:0;
+	p{
+		flex:1;
+		line-height:60px;
+		text-align: center;
+		font-size: 16px;
+	}
+	.list_price a{
+		width:100%;
+		height:100%;
+		font-size: 16px;
+		line-height:60px;
+		display:inline-block;
+		background:#fff;
+		color:#ff9600;
+	}
+	.list_ask{
+		background:#ff9600;
+		color:#fff;
+	}
+	.buy_now{
+		background:#ff5657;
+		color:#fff;
+	}
+}
+
+.order_footer{
+		width:100%;
+		height:60px;
+		position:fixed;
+		left:0;
+		bottom:70px;
+		display: flex;
+		p{
+			flex:2;
+			height:100%;
+			background:#ff585c;
+			span{
+				float:left;
+				height:100%;
+				line-height:60px;
+				color:#fff;
+			}
+			.order_price{
+				
+				font-weight: bold;
+				font-size:18px;
+			}
+		}
+		input{
+			flex:1;
+			background:#ff9600;
+			border:none;
+			font-size:16px;
+			color:#fff;
+			text-align:center;
+		}
+	}
